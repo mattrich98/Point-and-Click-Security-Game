@@ -1,2 +1,1 @@
-# Point-and-Click-Security-Game
-Point and Click game
+Click the link to play: https://mattrich98.github.io/Point-and-Click-Security-Game/
